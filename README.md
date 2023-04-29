@@ -3,5 +3,6 @@ demo for github repo.
  hello world  i am readme.md file on github..
 
 
-# hello 
-github is a version contro system...ls ==
+git is one of most powerfull platform for code saving and exchange with other 
+
+it is one of the most uses for developer
